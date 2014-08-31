@@ -7,3 +7,8 @@ node index.js
 
 Что бы создать mydb.db нужно ввести в командной строке:
 node create_db.js ./mydb 
+
+Для работы использовались эти дополнительные модули:
+express
+body-parser
+sqlite3
