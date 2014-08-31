@@ -9,6 +9,6 @@ node index.js
 node create_db.js ./mydb 
 
 Для работы использовались эти дополнительные модули:
-express
-body-parser
+express,
+body-parser,
 sqlite3
